@@ -25,16 +25,16 @@
 
 </template>
 <style>
-a {
+.detailMakanan a {
   text-decoration: none;
   color: grey;
 }
-table {
+.detailMakanan table {
     margin-top:50px;
   margin-left: 250px;
   text-align: left;
 }
-img{
+.detailMakanan img{
     margin-top: -360px;
     margin-left: 600px;
     width: 350px;
