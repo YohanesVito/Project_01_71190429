@@ -1,7 +1,6 @@
 <template>
   <div class="checkout">
-    <h2>Pesanan Anda</h2>
-
+    <h2 id="pesanan">Pesanan Anda</h2>
     <table border="0px">
       <tr>
         <td>
@@ -50,4 +49,7 @@
 #catatan{
   text-align: left;
 }
+
+
+
 </style>

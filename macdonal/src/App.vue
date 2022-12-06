@@ -9,6 +9,21 @@
     <br />
     <router-link to="/snack">Snack</router-link>
     <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    
     <router-link to="/checkout">Checkout</router-link>
   </aside>
   <router-view />

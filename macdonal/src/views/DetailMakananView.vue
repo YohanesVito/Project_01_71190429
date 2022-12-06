@@ -20,9 +20,13 @@
         <td><h2>Tidak</h2></td>
       </tr>
     </table>
-      <img src="../assets/gigaMac.png" alt="">
   </div>
-
+    <div class="kanan">
+    <img src="../assets/gigaMac.png" alt="">
+      <h1>GigaMac</h1>
+      <h2>Rp 70.000</h2>
+      <button>Tambah Pesanan</button>
+    </div>
 </template>
 <style>
 .detailMakanan a {
@@ -34,10 +38,11 @@
   margin-left: 250px;
   text-align: left;
 }
-.detailMakanan img{
+.kanan img{
     margin-top: -360px;
     margin-left: 600px;
     width: 350px;
     height: 300px;
 }
+
 </style>
